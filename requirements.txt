@@ -1,0 +1,9 @@
+
+---
+
+### `requirements.txt`
+
+```plaintext
+openai
+python-dotenv
+requests
